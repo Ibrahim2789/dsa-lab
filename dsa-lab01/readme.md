@@ -1,7 +1,7 @@
 Name: Muhammad Ibrahim
 CMS ID: 540051
 
-Rask 1: This program creates an array, changes the third element to 7, and displays all five values.
+task 1: This program creates an array, changes the third element to 7, and displays all five values.
 Task 2: This program takes five integers as input, stores them in an array, and calculates their total.
 Task 3: This program creates two Student objects, assigns their roll numbers and marks, and displays their values.
 Task 4: This program finds the largest and smallest values in an array of eight integers and displays their first indices.
