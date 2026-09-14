@@ -16,6 +16,7 @@ void reverseArray(int array[],int size, int n){
 
 int main() {
     int* numbers = new int[6];
+    cout<<"Muhammad Ibrahim"<<endl;
 
     cout<< "Enter 6 numbers: ";
     for (int i = 0; i < 6 ; i++){

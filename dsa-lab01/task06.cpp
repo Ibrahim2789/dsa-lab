@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-    
+    cout<<"Muhammad Ibrahim"<<endl;
+
     int* numbers = new int[10];
 
     cout<< "Enter 10 numbers: ";
@@ -29,8 +30,10 @@ int main() {
     for (int i = 0 ; i < k ; i++ ){
         cout<<numbers[i]<<" ";
     }
+
     cout<<endl;
     cout <<"Unique numbers are : "<< k;
+
     delete[] numbers;
     numbers=nullptr;
     return 0;

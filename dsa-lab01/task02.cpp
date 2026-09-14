@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
+    cout<<"Muhammad Ibrahim"<<endl;
+
     int numbers[5];
     int total = 0;
 

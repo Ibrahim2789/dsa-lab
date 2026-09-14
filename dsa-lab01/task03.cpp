@@ -13,7 +13,8 @@ class Student{
 
 
 int main(){
-
+    cout<<"Muhammad Ibrahim"<<endl;
+    
     Student s1;
     Student s2;
 
