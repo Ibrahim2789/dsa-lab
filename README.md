@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Wave SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=DSA%20Lab%20🧪&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Structures%20%26%20Algorithms%20—%20Lab%20Solutions&descSize=18&descColor=a0aec0&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=DSA%20Lab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Structures%20and%20Algorithms%20Lab%20Solutions&descSize=18&descColor=a0aec0&descAlignY=55"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/Ibrahim2789/dsa-lab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%A5+Solving+DSA+Problems+One+Lab+at+a+Time;%F0%9F%92%BB+C%2B%2B+%7C+Arrays+%7C+Pointers+%7C+Structs+%7C+Memory;%F0%9F%9A%80+Built+with+Passion+and+Late+Night+Debugging" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=C%2B%2B+%7C+Arrays+%7C+Pointers+%7C+Structs;Built+with+Passion+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
