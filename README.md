@@ -3,10 +3,10 @@
 <!-- Animated Header Wave SVG -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=DSA%20Lab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Structures%20and%20Algorithms%20Lab%20Solutions&descSize=18&descColor=a0aec0&descAlignY=55"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://github.com/Ibrahim2789/dsa-lab">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=C%2B%2B+%7C+Arrays+%7C+Pointers+%7C+Structs;Built+with+Passion+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<!-- Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2&section=header"/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=C%2B%2B%20%E2%80%A2%20Arrays%20%E2%80%A2%20Pointers%20%E2%80%A2%20Structs%20%E2%80%A2%20Memory&fontSize=20&fontColor=00d4ff&animation=twinkling"/>
 
 <br/>
 
@@ -250,26 +250,6 @@ g++ -o task01 task01.cpp
 ./task01
 ```
 
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim2789&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a0aec0&ring_color=00d4ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim2789&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=f97316&currStreakLabel=00d4ff&sideLabels=a0aec0&currStreakNum=ffffff&sideNums=ffffff&dates=a0aec0" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim2789&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" alt="Top Languages"/>
-
-</div>
-
-
 
 <!-- ═══════════════════════════════════════════════════ -->
 
@@ -282,8 +262,8 @@ g++ -o task01 task01.cpp
 
 <br/>
 
-<!-- Animated Connect Section -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&repeat=true&width=500&lines=%E2%AD%90+Star+this+repo+if+you+found+it+helpful!;%F0%9F%A4%9D+Let's+connect+and+collaborate!" alt="Connect" />
+<!-- Animated Star CTA -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=%E2%AD%90%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=20&fontColor=7c3aed&animation=twinkling"/>
 
 <br/><br/>
 
