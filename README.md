@@ -269,33 +269,7 @@ g++ -o task01 task01.cpp
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="30"> &nbsp;Activity Graph
-
-<div align="center">
-
-[![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim2789&bg_color=0d1117&color=00d4ff&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Ibrahim2789/dsa-lab)
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ibrahim2789&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════ -->
 
