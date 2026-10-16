@@ -127,3 +127,8 @@ int main() {
 
     return 0;
 }
+
+// This is a linear queue, so insertion remains blocked when rear reaches index 4,
+// even if some customers have been served and earlier positions are empty.
+// The freed positions can be reused only after the queue becomes completely empty
+// and both front and rear reset to -1. A circular queue would overcome this limitation.
